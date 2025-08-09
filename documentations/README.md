@@ -2,7 +2,7 @@
 
 An intuitive task management application built with modern web technologies and packaged as a desktop application using Electron.
 
-![Polymath App](https://github.com/whatisaProCoder/odin-task-management-app/blob/main/demo/app_preview.png)
+![Polymath App](https://github.com/whatisaProCoder/whatisaProCoder/blob/main/assets/polymath_preview.png)
 
 ## 📚 Table of Contents
 
