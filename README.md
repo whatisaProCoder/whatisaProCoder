@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pritam Debnath.<br>🤓 I'm interested in Robotics/IoT and Web/Application Development.<br>🌱 I’m currently learning Web Development.<br>👯 I’m looking to collaborate on making functional websites.<br>📫 How to reach me: https://www.linkedin.com/in/pd200x/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I like coding on ESPs and Raspberries!
+Hi, I'm Pritam Debnath.<br>🤓 I'm interested in Robotics/IoT and Web/Application Development.<br>🌱 I’m currently learning Web Development.<br>👯 I’m looking to collaborate on making functional websites.<br>📫 How to reach me: https://www.linkedin.com/in/pd200x/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I like coding on ESPs!
 
 
 ## 🌐 Socials:
